@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="octocat.gif" width"100">
+<img src="octocat.gif" width="100">
 
 ### :):)
 <!--
