@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt Hi](octocat.gif)
 ### :):)
 <!--
 **emineyenice/emineyenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
